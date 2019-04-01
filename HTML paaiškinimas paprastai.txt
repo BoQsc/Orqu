@@ -1,0 +1,175 @@
+užrašų
+
+
+
+Kas yra tekstas? 
+ Tekstas yra raidžių ir simbolių, skaičių kratinys, mes juos vadiname žodžiais, 
+ bet nebūtinai gali būti žodžiai. Tekstas gali susidaryti net iš vienos raidės ar simbolio, skaičiaus.
+
+
+Kodėl žymime tekstus?
+ Tekstus žymime tam, kad juos išskirti iš kitų aplink esančių tekstų.
+ Pažymėjus tekstą, jį galima nuspalvinti, suteikti naują 
+  išvaizdą, dydį net pritaikyti maketą - naudojant Stiliaus Nurodymus. (CSS)
+ Arba, galima pažymėtą tekstą apdoroti! - nukopijuoti,
+  ištrinti raides, pakeisti žodžius, ar net juos nagrinėti
+  naudojant programavimo kalbą (JavaScript, PHP, Python...)
+
+Taip pat kaip knygose, literatūroje žymime tekstą žymekliu,
+interneto puslapyje žymime tekstą žymėjimo (  <> </>  ) 
+ įrankiu. 
+ 
+ Norint pradėti žymėjimą, norimoje 
+ teksto vietoje parašykite daugiau-mažiau simbolius: <>
+  Taip, pažymėsite pradžią.
+ Norint užbaigti žymėjimą, parašykite daugiau-mažiau simbolius ir
+  jų viduje įterpkite pasvirajį brūkšnį: </>
+
+
+Teksto pavyzdžiai:
+ tekstas kurį pažymėjau
+ kitas tekstas kurį pažymėjau žymėjimo įrankiu
+ sjkdlfjsalkdfjkalsdfk
+ ha ha ha ha ha? - pasakė žmogus
+ safasdfklasd 123456789asdfsadfjkasdjf asdfjksladf
+ 123578954688751354745645648648948948
+ bobis198
+ kekemonas
+
+
+Pažymėto teksto pavyzdžiai: 
+ <>tekstas kurį pažymėjau</>
+ <>kitas tekstas kurį pažymėjau žymėjimo įrankiu</>
+ <>sjkdlfjsalkdfjkalsdfk</>
+ <>ha ha ha ha ha? - pasakė žmogus</>
+ <>safasdfklasd 123456789asdfsadfjkasdjf asdfjksladf</>
+ <>123578954688751354745645648648948948</>
+ <>bobis198</>
+ <>kekemonas</>
+
+
+
+Pavyzdyje matome Žymėjimo Įrankiu pažymėtus tekstus, 
+ tačiau jie visi vienodai pažymėti ir niekuo neišsiskiria vienas nuo kito!
+ 
+ Būtent todėl Žymėjimo Įrankis turi užslėptą 
+  būdą juos išskirti, tai - Žymeklio Pavadinimas!
+  
+  
+  Pažymėto teksto pavyzdžiai su Žymeklio Pavadinimais: 
+ <žymeklioPavadinimas>tekstas kurį pažymėjau</žymeklioPavadinimas>
+ <labaiIšskirtinai-išskiriame-tekstą>kitas tekstas kurį pažymėjau žymėjimo įrankiu</labaiIšskirtinai-išskiriame-tekstą>
+ <koksNorsKitasPavadinimas>sjkdlfjsalkdfjkalsdfk</koksNorsKitasPavadinimas>
+ <darVienasPavadinimas>ha ha ha ha ha? - pasakė žmogus</darVienasPavadinimas>
+ <ohoKoksPavadinimas>safasdfklasd 123456789asdfsadfjkasdjf asdfjksladf</ohoKoksPavadinimas>
+ <manoBankoSąskaita>123578954688751354745645648648948948</manoBankoSąskaita>
+ <slapyvardis>bobis198</slapyvardis> 
+ <slaptažodis>kekemonas</slaptažodis>
+  
+  
+  
+  
+  
+  
+
+
+
+
+  sdfjskdfjlsdjf    - žymeklio pavadinimas (žymens pavadinimas)
+      <> </>        - teksto žymėjimo įrankis
+
+
+
+ <sdfjskdfjlsdjf>Parašau truputį teksto</sdfjskdfjlsdjf>
+
+ <sdfjskdfjlsdjf>Parašau truputį teksto
+ </sdfjskdfjlsdjf>
+
+ <sdfjskdfjlsdjf>
+ Parašau truputį teksto
+ </sdfjskdfjlsdjf>
+
+
+
+
+
+
+                  Kas yra HTML? 
+              Teksto pažymėjimo kalba
+
+Grupė sugalvotų žymeklio pavadinimų, juos sugalvojo žmogėnai:
+   a  h1  h2  h3  h4  h5  head  html  img  li  ol  title  div ...
+
+Štai kas tu galbūt manai jog yra HTML:
+   <a><h1><h2><h3><h4><h5><head><html><img><li><ol><title><div> ...Ir taip toliau
+
+Iš tikro html yra tik žymeklio pavadinimai/žodžiai:
+   a  h1  h2  h3  h4  h5  head  html  img  li  ol  title  div   ...Ir taip toliau, yra daug daugiau
+
+Kaip matai, grupė žodžių, visai panaši į kalbą. Ji ir yra kalba, 
+ dalį žodžių pasiskolino iš pačios anglų kalbos.
+
+
+Simboliai kurie gaubia HTML (<> </>)
+ Šie simboliai nėra HTML, jie tik įrankiai pažymėti tekstus,
+ teksto dalis, žodžius, raides.
+
+Teksto žymėjimo įrankiui nesvarbu ar naudoji HTML pavadinimus/žodžius:
+  <manoSugalvotasžodis> Ha ha mano parašytas tekstas  </manoSugalvotasŽodis>
+
+  Tekstas: Ha ha mano parašytas tekstas
+  Buvo pažymėtas žodžiu: manoSugalvotasžodis
+
+Pažymėjus žodį, 
+
+
+
+
+Norint pažymėti tekstą reikia (<> </>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<A><BODY><CITE><CODE><H1> <H2> <H3> <H4> <H5> <H6> <HEAD> <HTML> 
+<I> <IMG> <ISINDEX> <KBD> <KEY> <LI> <LINK> <LISTING> <MENU> <NEXTID> <OL> <P> 
+<PLAINTEXT> <PRE> <SAMP> <STRONG> <TITLE> <TT> <U> <UL> <VAR> <XMP>
+
+Visa kalba sakyčiau. LOOOOOOOOOOOOOOOOOOOOOL
+
+
+
+
+
+Kas nėra HTML: 
+
+
+
+
+
+
+Pažymėto teksto pavaizdavimo
+ stiliaus Nurodymų  kalba
+
+Teksto pažymėjimo kalba
+
+Hypertext Markup Language
+Teksto pažymėjimo kalba
+
+Cascading Style Sheets
+Pažymėto teksto - stiliaus nurodymai, surašyti į failą
